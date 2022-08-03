@@ -205,6 +205,7 @@ Along with the HTTP error code, our API can also return more detailed error code
 | 40043  | Application interaction failed to send                                                                                        |
 | 40060  | Interaction has already been acknowledged                                                                                     |
 | 40061  | Tag names must be unique                                                                                                      |
+| 40069  | Invites are currently paused for this server.                                                                                 |
 | 50001  | Missing access                                                                                                                |
 | 50002  | Invalid account type                                                                                                          |
 | 50003  | Cannot execute action on a DM channel                                                                                         |
